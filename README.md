@@ -4,6 +4,9 @@
 
 ## Build Setup
 
+## 截图
+![Image text](https://github.com/jiangzhenggeng/vue-picker-area/blob/master/vur-picker-area.gif)
+
 ``` bash
 # install dependencies
 npm install
